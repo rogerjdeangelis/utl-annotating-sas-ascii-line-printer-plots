@@ -33,6 +33,10 @@ Annotating sas ascii line printer plots
     |_|
     */
 
+    
+     The integral is the area under the curve not the area inside the parabola.
+     The area inside the parabola is 667 and under the parabola is 333
+
     /**************************************************************************************************************************/
     /*                                                                                                                        */
     /*                                                                                                                        */

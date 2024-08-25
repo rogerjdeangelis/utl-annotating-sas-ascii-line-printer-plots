@@ -31,6 +31,8 @@ https//github.com/rogerjdeangelis/utl_using_google_tesseract_and_sas_to_convert_
 |_|
 */
 
+The area inside the parabola is 667 and under the parabola is 333
+
 /**************************************************************************************************************************/
 /*                                                                                                                        */
 /*                                                                                                                        */

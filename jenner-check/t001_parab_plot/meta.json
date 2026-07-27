@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_parab_plot",
+  "source_file": "utl-annotating-sas-ascii-line-printer-plots.sas",
+  "source_blob_sha": "e545043b65132b8821a5eced7fd606fc2869881d",
+  "source_commit": "a0bfef82cd22ea5cfc4093b43979a28d5b389672",
+  "notes": "Roger DeAngelis utility: a DATA step builds a parabola (y=-x**2 rescaled) plus 16 text-annotation observations, then PROC PLOT renders an annotated ASCII line-printer plot (plot y*xx=val $ txt / box, href/vref, formchar). Prose/ASCII-art header before the DATA step stripped so the file parses cleanly. DO-loop sampling step coarsened from 'by .1' to 'by .3' (201 -> 66 curve points) so the full symmetric curve AND all 16 annotation labels fit; formula, annotation points, and PROC PLOT statement unchanged. 82 total obs, fully reproducible."
+}

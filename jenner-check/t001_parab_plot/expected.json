@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-27T09:37:55Z",
+  "_captured_run_id": "r_7179d55fc0ca4b32847f0ca0d19bc643",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote parab (82 rows, 5 columns).",
+    "NOTE: PROC PLOT data=parab",
+    "NOTE: PROC PLOT produced 1 plot(s) from 82 observations."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
